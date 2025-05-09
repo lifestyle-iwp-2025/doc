@@ -27,7 +27,7 @@
 
 ==== Technologie
 
-Für die Implementierung der Website setzen wir Angualr ein.
+Für die Implementierung der Website setzen wir Angular ein.
 
 ==== Zielgruppe
 
@@ -48,8 +48,43 @@ Mit der Website möchten wir Studierenden einen zentralen, leicht zugänglichen 
 
 === 1. Meeting vor Ort 09.05.2025 - Agenda: Konzeptionierung der Website Grundstruktur
 
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
+
 === 2. Meeting vor Ort 12.05.2025 - Agenda: Erstellung Low Fidelity Prototype
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
 
 === 3. Meeting vor Ort 16.05.2025 - Agenda: Erstellung High Fidelity Prototype
 
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
 
