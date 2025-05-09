@@ -1,1 +1,35 @@
-= Test
+== APM Projekt Dokumentation "Lifestyle"
+
+=== Kick Off 05.05.2025 - Festlegung der Rahmenbedingungen
+
+==== Rollen
+
+|======================================
+|Teammitglieder        |Rolle      
+|Lena Wurmsdobler      |Product Owner    
+|Neysi Rivera Escobar  |Scrum Master     
+|Elisabeth Hentscholek |Developer
+|Milena Marinova       |Developer
+|Yaminia Pagoada       |Developer
+|Lydia Reiter          |Developer
+|Haja Sharifi          |Developer
+|======================================
+
+==== Tools
+
+==== Technologien
+
+==== Zielgruppe
+
+==== Ziel
+
+==== Links
+
+
+=== 1. Meeting vor Ort 09.05.2025 - Agenda: Konzeptionierung der Website Grundstruktur
+
+=== 2. Meeting vor Ort 12.05.2025 - Agenda: Erstellung Low Fidelity Prototype
+
+=== 3. Meeting vor Ort 16.05.2025 - Agenda: Erstellung High Fidelity Prototype
+
+
