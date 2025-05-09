@@ -63,6 +63,39 @@ Mit der Website möchten wir Studierenden einen zentralen, leicht zugänglichen 
 :repo: https://github.com/lifestyle-iwp-2025/doc
 :img: {repo}/img/20250509_website_structure
 
+==== Basis 
+
+Die Website verfügt über eine Mainpage als Einstieg und 7 Subpages für jedes Research Poster bzw. eine 8. Subpage als "About"-Page.
+
+|====================================================================  
+|Subpage       |Farbe
+|Hobbies       |grün
+|Mental Health |tangerine
+|Beauty        |lachrosa
+|Fashion       |rosa
+|Health        |blau
+|Sports        |petrol
+|Housing       |lila
+|About         |grau/beige
+|====================================================================
+
+==== Festgelegte Anforderungen
+
+Sprache:  Englisch
+
+Mainpage Colors: Monochrome
+
+Subpage Colors: 1 Grundfarbe/Subpage 
+		Pastell als Primärfarbe: Kachel auf Mainpage; Hintergrund auf Subpage
+		Kräftiger Farbton: Akzentfarbe auf Subpage
+
+Font: <H1>
+      <H2>
+      <p> Calibri; sans serif
+
+Poster Links: open new browser tab Funktion
+	
+
 ==== Grundstruktur Mainpage
 
 image::{img}/mainpage.jpg[]
