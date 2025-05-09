@@ -17,13 +17,33 @@
 
 ==== Tools
 
-==== Technologien
+|====================================================================
+|Tool        |Verwendung      
+|Github      |Versionierung, Software- und Dokumentenverwaltung 
+|YouTrack    |Product Backlog
+|PHP Storm   |IDE
+|Figma	     |Prototyping
+|====================================================================
+
+==== Technologie
+
+Für die Implementierung der Website setzen wir Angualr ein.
 
 ==== Zielgruppe
 
+Die Website richtet sich primär an Studierende.
+
 ==== Ziel
 
+Mit der Website möchten wir Studierenden einen zentralen, leicht zugänglichen Zugang zu Research-Postern über Lifestyle und kulturelle Hintergründe bieten, um das Bewusstsein für kulturelle Unterschiede zu schärfen, den interkulturellen Austausch zu fördern sowie Toleranz und Offenheit im Studienalltag zu stärken.
+
 ==== Links
+
+|====================================================================    
+|Github      | https://github.com/lifestyle-iwp-2025
+|YouTrack    | https://lifestyle-iwp-2025.youtrack.cloud/dashboard?id=214-5 
+|Figma       | https://www.figma.com/design/fvK90W07Ke7qHjKwpHgFgq/Lifestyle-IWP?node-id=0-1&p=f&t=RmE3Kw8YbvCnDGGx-0 
+|====================================================================
 
 
 === 1. Meeting vor Ort 09.05.2025 - Agenda: Konzeptionierung der Website Grundstruktur
