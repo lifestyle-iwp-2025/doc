@@ -60,6 +60,17 @@ Mit der Website möchten wir Studierenden einen zentralen, leicht zugänglichen 
 |Haja Sharifi
 |======================
 
+:repo: https://github.com/lifestyle-iwp-2025/doc
+:img: {repo}/img/20250509_website_structure
+
+==== Grundstruktur Mainpage
+
+image::{img}/mainpage.jpg[]
+
+==== Grundstruktur Subpage
+
+image::{img}/subpage.jpg[]
+
 === 2. Meeting vor Ort 12.05.2025 - Agenda: Erstellung Low Fidelity Prototype
 
 ==== Teilnehmer
