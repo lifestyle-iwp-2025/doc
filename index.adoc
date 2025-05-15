@@ -76,18 +76,31 @@ Die Website verfügt über eine Mainpage als Einstieg und 7 Subpages für jedes 
 |Health        |blau
 |Sports        |petrol
 |Housing       |lila
-|About         |grau/beige
+|About         |monochrome
 |====================================================================
 
 ==== Festgelegte Anforderungen
 
-Sprache:  Englisch
+Sprache: Englisch
 
 Mainpage Colors: Monochrome
 
 Subpage Colors: 1 Grundfarbe/Subpage 
 		Pastell als Primärfarbe: Kachel auf Mainpage; Hintergrund auf Subpage
 		Kräftiger Farbton: Akzentfarbe auf Subpage
+
+|====================================================================  
+|Subpage       |Primary Color |Secondary Color
+|Hobbies       |#2F7D32	      |#C8E6CA
+|Mental Health |#F67C01       |#FFE0B2
+|Beauty        |#FE645A       |#FFDAD1		
+|Fashion       |#EC407A       |#F9BBD0
+|Health        |#1976D3       |#BBDEFA 
+|Sports        |#00796A       |#B2DFDC
+|Housing       |#7E57C2       |#D0C4E8
+|About         |#333333       |#F5F5F5
+|====================================================================
+
 
 Font: <H1>
       <H2>
@@ -118,17 +131,18 @@ image::{img}/subpage.jpg[]
 |Haja Sharifi
 |======================
 
-=== 3. Meeting vor Ort 16.05.2025 - Agenda: Erstellung High Fidelity Prototype
+Der Low Fidelity Prototype wurde für Main und Subpage in Figma aufgesetzt und fertiggestellt.
+
+=== 3. Meeting vor Ort 15.05.2025 - Agenda: Erstellung High Fidelity Prototype & Designsystem
 
 ==== Teilnehmer
 
 |======================    
 |Lena Wurmsdobler   
-|Neysi Rivera Escobar     
-|Elisabeth Hentscholek
-|Milena Marinova
 |Yaminia Pagoada
-|Lydia Reiter
 |Haja Sharifi
 |======================
 
+Finale Festlegung der Farbpalette und Fonts durchgeführt.
+
+--> TODO Farbpalleten Img einfügen
