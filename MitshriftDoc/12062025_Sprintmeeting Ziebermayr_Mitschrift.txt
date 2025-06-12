@@ -1,0 +1,19 @@
+12.06.2025_Sprintmeeting Ziebermayr_Besprechung Einbettung der Jsondatei
+
+
+-Fragte nach einem Button der direkt auf die Kacheln runter drückt ohne zu scrollen
+-Befüllung Zufriedenheit und zusammenarbeit und Dokumentation
+-Was würden wir gerne im nächsten Sprint weiter machen? Was können wir verbessern?
+
+ + Große Aufgaben gut erledigt worden
+ + Lydia großen Beitrag um weiter zu arbeiten und Struktur von Webseite und Json - Struktur
+ + Lena super Dokumentation & Lena und Lisi Design
+ - Tasks besser formulieren: Ev Tasks kleiner machen, dass man öfter was abhacken kann - Granularer gestalten
+ 			     Content und Bilder Separat
+ - Implizites Wissen festhalten.
+
+Zu kommunizieren: Eigenständiges Interesse, bescheid geben wie weit man ist und anregen rein zu schauen und eigenständig
+		  erkundigen was gemacht wurde - Wertschätzung für Taten die gemacht wurden - Logo/About Us
+
+- Texte definieren die nicht von einzelne bearbeitet werden - also H1, und About Us
+-Im Review Ergebnis ansehen
