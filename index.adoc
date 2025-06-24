@@ -146,3 +146,90 @@ Der Low Fidelity Prototype wurde für Main und Subpage in Figma aufgesetzt und f
 Finale Festlegung der Farbpalette und Fonts durchgeführt.
 
 --> TODO Farbpalleten Img einfügen
+
+=== 4. Meeting vor Ort 20.05.2025 - Agenda: Stand Up, Fertigstellung aller High Fidelity Subpages
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|======================
+
+Stand Up: Besprechung der fertiggestellten und aktuell zu bearbeiteten Tasks aller Projektmitglieder
+
+Der High Fidelity Prototyp wurde erfolgreich fertiggestellt;
+Ebenso wurde das Angular Framework für die Website aufgesetzt und erste Konfigurationen durchgeführt.
+
+=== 5. Meeting vor Ort 26.05.2025 - Agenda: Sprint 1 Abschluss & Retrospektive, Sprintplanning, Besprechung der Website
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
+
+Sprint 2 Abschluss + Retrospektive: Kurzes Review der erledigten Tasks und Präsentation der bisherigen Projektergebnisse
+
+Besprechung der Website: Aktueller Fortschritt der Angular-Umgebung
+
+Sprintplanning: Festlegung und Aufteilung der Tasks für Sprint 3. 
+
+=== 6. Meeting vor Ort 27.05.2025 - Agenda: Einführung in die Angular-Umgebung, Besprechung des Logos
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
+
+Angular-Umgebung: Präsentation und Durchführung der Schulung für die Content-Aufbereitung im .json Format
+
+Logo: Präsentation und Besprechung des Designs
+
+=== 7. Meeting vor Ort 12.06.2025 - Agenda: Sprint 2 Abschluss & Retrospektive, Sprintplanning, Besprechung der Website
+
+==== Teilnehmer
+
+|======================       
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Haja Sharifi
+|======================
+
+Sprint 2 Abschluss + Retrospektive: Kurzes Review der erledigten Tasks und Präsentation der bisherigen Projektergebnisse
+
+Allgemeine Besprechung der Zufriedenheit innerhalb des Projektteams bezüglich Einbringung in das Projekt, Erledigung der Tasks und Verbesserungen.
+Verbesserungen: Formulierung der Tasks bzw. granularere Aufgaben bereitstellen, implizites Wissen festhalten
+
+=== 8. Meeting vor Ort 25.06.2025 - Agenda: Besprechung des Projektforschritts, Fein-Tuning der Website
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Neysi Rivera Escobar     
+|Elisabeth Hentscholek
+|Milena Marinova
+|Yaminia Pagoada
+|Lydia Reiter
+|Haja Sharifi
+|======================
