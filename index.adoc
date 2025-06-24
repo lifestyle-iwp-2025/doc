@@ -102,9 +102,9 @@ Subpage Colors: 1 Grundfarbe/Subpage
 |====================================================================
 
 
-Font: <H1>
-      <H2>
-      <p> Calibri; sans serif
+Font: <H1> Aleo; serif
+      <H2> Aleo; serif
+      <p> Jost; sans serif
 
 Poster Links: open new browser tab Funktion
 	
