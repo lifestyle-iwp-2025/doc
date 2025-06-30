@@ -227,9 +227,23 @@ Verbesserungen: Formulierung der Tasks bzw. granularere Aufgaben bereitstellen, 
 |======================    
 |Lena Wurmsdobler   
 |Neysi Rivera Escobar     
-|Elisabeth Hentscholek
-|Milena Marinova
 |Yaminia Pagoada
-|Lydia Reiter
-|Haja Sharifi
 |======================
+
+Sprint Review: Besprechung der lezten offenen Tasks
+
+Retrospektive und Feedback zum gesamten Projekt
+
+=== 9. Meeting vor Ort 01.0.2025 - Agenda: Abschlussbesprechung, Fertigstellung der letzten Tasks
+
+==== Teilnehmer
+
+|======================    
+|Lena Wurmsdobler   
+|Lydia Reiter  
+|Yaminia Pagoada
+|======================
+
+Umsetzung der Bilder und About Us Page
+
+Fertigstellung der Projektdokumentation
